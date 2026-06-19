@@ -1,0 +1,50 @@
+{
+  "name": "ts-knowledge-base",
+  "version": "1.0.0",
+  "description": "TypeScript Full-Stack Knowledge Base - A comprehensive learning platform for TypeScript full-stack development",
+  "private": false,
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Davey Wong",
+    "email": "wgwcko@gmail.com",
+    "url": "https://www.guangweiblog.com"
+  },
+  "keywords": [
+    "typescript",
+    "nextjs",
+    "nestjs",
+    "react",
+    "prisma",
+    "fullstack",
+    "knowledge-base",
+    "documentation",
+    "learning"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"No tests configured yet\""
+  },
+  "dependencies": {
+    "next": "^14.2.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "lucide-react": "^0.400.0",
+    "fuse.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ts-knowledge-base.git"
+  }
+}
